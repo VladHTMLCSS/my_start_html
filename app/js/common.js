@@ -1,5 +1,5 @@
 $(document).ready(function() {
 
-	/* code hear! */
+	/* code here! */
 
 });
